@@ -1,0 +1,23 @@
+body {
+	background-color: #f1f1f1;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 2rem;
+	color: #333;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.content {
+	margin: 30px;
+	margin-left: 0px;
+}
+
+a {
+	color: #97bf0d;
+}
+a:hover {
+	color: #004272;
+}
